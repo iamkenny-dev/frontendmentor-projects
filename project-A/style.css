@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'outfit', 'Helvetica Neue', sans-serif;
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    width: 500px;
+    height: 700px;
+    margin: 200px auto;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+
+img {
+    max-width: 460px;
+    border-radius: 10px;
+}
+
+.text {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+}
+
